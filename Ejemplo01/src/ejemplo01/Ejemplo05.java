@@ -25,7 +25,10 @@ public class Ejemplo05 {
                 nacimiento);
         
         System.out.println(nombreEstudiante+"\n"+"\n"+apellidoEstudiante+ "\n"+
-                "\n"+ nacimiento); */
+                "\n"+ nacimiento;  */
+        /*
+        nos sirve para dar un asalto 
+        */
         System.out.println(nombreEstudiante+"\t"+apellidoEstudiante);   
         System.out.println(nombreEstudiante+"\n\t"+apellidoEstudiante);   
     }

@@ -16,9 +16,9 @@ public class Ejemplo04 {
         
         */
                 
-        String nombreEstudiante = "René Rolando";
-        String apellidoEstudiante = "Elizalde Solano";
-        int nacimiento = 1983;
+        String nombreEstudiante = "Fabian Canar";
+        String apellidoEstudiante = "Canar Calva";
+        int nacimiento = 2005;
         System.out.println(nombreEstudiante + " ");
         System.out.print(apellidoEstudiante + " ");
         System.out.print(nacimiento + " ");
